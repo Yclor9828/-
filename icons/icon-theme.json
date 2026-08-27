@@ -77,6 +77,18 @@
     },
     "_settings": {
       "iconPath": "./settings.svg"
+    },
+    "_png": {
+      "iconPath": "./png.svg"
+    },
+    "_jpg": {
+      "iconPath": "./jpg.svg"
+    },
+    "_gif": {
+      "iconPath": "./gif.svg"
+    },
+    "_bmp": {
+      "iconPath": "./bmp.svg"
     }
   },
   "file": "_file",
@@ -127,14 +139,14 @@
     "ini": "_text",
     "cfg": "_text",
     "conf": "_text",
-    "png": "_image",
-    "jpg": "_image",
-    "jpeg": "_image",
-    "gif": "_image",
+    "png": "_png",
+    "jpg": "_jpg",
+    "jpeg": "_jpg",
+    "gif": "_gif",
     "svg": "_image",
     "ico": "_image",
     "webp": "_image",
-    "bmp": "_image",
+    "bmp": "_bmp",
     "tif": "_image",
     "tiff": "_image",
     "zip": "_zip",

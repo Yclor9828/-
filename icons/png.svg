@@ -1,12 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <!-- Document Base Paper -->
   <path d="M6 3h13l7 7v18a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z" fill="#FFFFFF" stroke="#BAC2CB" stroke-width="1.2"/>
-  <!-- Fold Corner -->
   <path d="M19 3v7h7z" fill="#E4E9EE" stroke="#BAC2CB" stroke-width="1.2" stroke-linejoin="round"/>
-
-  <!-- PNG Badge -->
-  <rect x="3" y="9" width="13" height="7" rx="1.5" fill="#4CAF50"/>
-  <text x="9.5" y="14.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-weight="bold" font-size="5" fill="#FFFFFF" text-anchor="middle">PNG</text>
-  <!-- Mountain Photo Graphic -->
+  <rect x="3" y="9" width="14" height="7.5" rx="1.5" fill="#4CAF50"/>
+  <text x="10" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="5.5" fill="#FFFFFF" text-anchor="middle">PNG</text>
   <path d="M8 25l4-5 3 4 3-4 5 5H8z" fill="#81C784"/>
 </svg>

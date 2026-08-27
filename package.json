@@ -1,0 +1,27 @@
+{
+  "name": "custom-windows-icons",
+  "displayName": "自定义_Windows",
+  "description": "Windows 官方原生风格文件与文件夹图标主题（含 Word、Excel、PPT、PDF、SCL 与 Antigravity Markdown 定制）",
+  "version": "1.0.0",
+  "publisher": "custom",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "custom-windows",
+        "label": "自定义_Windows",
+        "path": "./icons/icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yclor9828/-.git"
+  },
+  "icon": "icons/folder.svg"
+}

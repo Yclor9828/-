@@ -1,0 +1,196 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./folder_open.svg"
+    },
+    "_root_folder": {
+      "iconPath": "./root_folder.svg"
+    },
+    "_root_folder_open": {
+      "iconPath": "./root_folder_open.svg"
+    },
+    "_file": {
+      "iconPath": "./file.svg"
+    },
+    "_word": {
+      "iconPath": "./word.svg"
+    },
+    "_excel": {
+      "iconPath": "./excel.svg"
+    },
+    "_powerpoint": {
+      "iconPath": "./powerpoint.svg"
+    },
+    "_pdf": {
+      "iconPath": "./pdf.svg"
+    },
+    "_markdown": {
+      "iconPath": "./markdown.svg"
+    },
+    "_scl": {
+      "iconPath": "./scl.svg"
+    },
+    "_text": {
+      "iconPath": "./text.svg"
+    },
+    "_image": {
+      "iconPath": "./image.svg"
+    },
+    "_zip": {
+      "iconPath": "./zip.svg"
+    },
+    "_python": {
+      "iconPath": "./python.svg"
+    },
+    "_c": {
+      "iconPath": "./c.svg"
+    },
+    "_cpp": {
+      "iconPath": "./cpp.svg"
+    },
+    "_html": {
+      "iconPath": "./html.svg"
+    },
+    "_css": {
+      "iconPath": "./css.svg"
+    },
+    "_json": {
+      "iconPath": "./json.svg"
+    },
+    "_xml": {
+      "iconPath": "./xml.svg"
+    },
+    "_js": {
+      "iconPath": "./js.svg"
+    },
+    "_ts": {
+      "iconPath": "./ts.svg"
+    },
+    "_java": {
+      "iconPath": "./java.svg"
+    },
+    "_git": {
+      "iconPath": "./git.svg"
+    },
+    "_settings": {
+      "iconPath": "./settings.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "rootFolder": "_root_folder",
+  "rootFolderExpanded": "_root_folder_open",
+  "fileExtensions": {
+    "doc": "_word",
+    "docx": "_word",
+    "docm": "_word",
+    "dot": "_word",
+    "dotx": "_word",
+    "dotm": "_word",
+    "wps": "_word",
+    "xls": "_excel",
+    "xlsx": "_excel",
+    "xlsm": "_excel",
+    "xlsb": "_excel",
+    "xlt": "_excel",
+    "xltx": "_excel",
+    "csv": "_excel",
+    "tsv": "_excel",
+    "et": "_excel",
+    "ppt": "_powerpoint",
+    "pptx": "_powerpoint",
+    "pptm": "_powerpoint",
+    "pps": "_powerpoint",
+    "ppsx": "_powerpoint",
+    "pot": "_powerpoint",
+    "potx": "_powerpoint",
+    "dps": "_powerpoint",
+    "pdf": "_pdf",
+    "md": "_markdown",
+    "markdown": "_markdown",
+    "mdown": "_markdown",
+    "mdx": "_markdown",
+    "copilotmd": "_markdown",
+    "scl": "_scl",
+    "st": "_scl",
+    "s7dcl": "_scl",
+    "scltest": "_scl",
+    "awl": "_scl",
+    "udt": "_scl",
+    "db": "_scl",
+    "txt": "_text",
+    "log": "_text",
+    "ini": "_text",
+    "cfg": "_text",
+    "conf": "_text",
+    "png": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "gif": "_image",
+    "svg": "_image",
+    "ico": "_image",
+    "webp": "_image",
+    "bmp": "_image",
+    "tif": "_image",
+    "tiff": "_image",
+    "zip": "_zip",
+    "rar": "_zip",
+    "7z": "_zip",
+    "tar": "_zip",
+    "gz": "_zip",
+    "bz2": "_zip",
+    "py": "_python",
+    "pyw": "_python",
+    "ipynb": "_python",
+    "c": "_c",
+    "h": "_c",
+    "cpp": "_cpp",
+    "cc": "_cpp",
+    "cxx": "_cpp",
+    "hpp": "_cpp",
+    "hxx": "_cpp",
+    "html": "_html",
+    "htm": "_html",
+    "css": "_css",
+    "scss": "_css",
+    "less": "_css",
+    "json": "_json",
+    "jsonc": "_json",
+    "jsonl": "_json",
+    "xml": "_xml",
+    "js": "_js",
+    "mjs": "_js",
+    "cjs": "_js",
+    "jsx": "_js",
+    "ts": "_ts",
+    "tsx": "_ts",
+    "java": "_java",
+    "jar": "_zip"
+  },
+  "fileNames": {
+    "readme.md": "_markdown",
+    "changelog.md": "_markdown",
+    "license": "_text",
+    "license.txt": "_text",
+    "license.md": "_markdown",
+    ".gitignore": "_git",
+    ".gitattributes": "_git",
+    ".gitmodules": "_git"
+  },
+  "languageIds": {
+    "markdown": "_markdown",
+    "siemens": "_scl",
+    "siemens-dcl": "_scl",
+    "siemens-test": "_scl",
+    "python": "_python",
+    "c": "_c",
+    "cpp": "_cpp",
+    "json": "_json",
+    "jsonc": "_json",
+    "plaintext": "_text"
+  }
+}

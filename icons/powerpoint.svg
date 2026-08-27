@@ -1,4 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <rect x="3" y="3" width="26" height="26" rx="4" fill="#D83B01"/>
-  <text x="16" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" text-anchor="middle">P</text>
+  <defs>
+    <linearGradient id="p_grad_back" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C43E1C"/>
+      <stop offset="100%" stop-color="#7B230C"/>
+    </linearGradient>
+    <linearGradient id="p_grad_front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ED5C38"/>
+      <stop offset="100%" stop-color="#C43E1C"/>
+    </linearGradient>
+  </defs>
+  <path d="M8 4h12l6 6v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z" fill="url(#p_grad_back)"/>
+  <path d="M20 4v6h6z" fill="#FFFFFF" opacity="0.35"/>
+  <rect x="3.5" y="7.5" width="15" height="15" rx="2.5" fill="url(#p_grad_front)"/>
+  <path d="M7.5 11h4.2c2.4 0 3.8 1.2 3.8 3.3s-1.4 3.3-3.8 3.3H9.7V21H7.5zm2.2 4.8h2c1.2 0 1.9-.6 1.9-1.5s-.7-1.5-1.9-1.5h-2z" fill="#FFFFFF"/>
 </svg>

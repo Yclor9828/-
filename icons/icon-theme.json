@@ -25,7 +25,7 @@
       "iconPath": "./powerpoint_fluent.svg"
     },
     "_pdf": {
-      "iconPath": "./pdf_fluent.svg"
+      "iconPath": "./pdf_classic.svg"
     },
     "_markdown": {
       "iconPath": "./markdown.svg"

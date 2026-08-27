@@ -16,16 +16,16 @@
       "iconPath": "./file.svg"
     },
     "_word": {
-      "iconPath": "./word.svg"
+      "iconPath": "./word_fluent.svg"
     },
     "_excel": {
-      "iconPath": "./excel.svg"
+      "iconPath": "./excel_fluent.svg"
     },
     "_powerpoint": {
-      "iconPath": "./powerpoint.svg"
+      "iconPath": "./powerpoint_fluent.svg"
     },
     "_pdf": {
-      "iconPath": "./pdf.svg"
+      "iconPath": "./pdf_fluent.svg"
     },
     "_markdown": {
       "iconPath": "./markdown.svg"

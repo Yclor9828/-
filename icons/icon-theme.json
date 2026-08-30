@@ -89,6 +89,9 @@
     },
     "_bmp": {
       "iconPath": "./bmp.svg"
+    },
+    "_svg": {
+      "iconPath": "./svg_symbols.svg"
     }
   },
   "file": "_file",
@@ -143,7 +146,7 @@
     "jpg": "_jpg",
     "jpeg": "_jpg",
     "gif": "_gif",
-    "svg": "_image",
+    "svg": "_svg",
     "ico": "_image",
     "webp": "_image",
     "bmp": "_bmp",
@@ -203,6 +206,7 @@
     "cpp": "_cpp",
     "json": "_json",
     "jsonc": "_json",
-    "plaintext": "_text"
+    "plaintext": "_text",
+    "svg": "_svg"
   }
 }

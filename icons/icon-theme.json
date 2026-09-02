@@ -43,7 +43,7 @@
       "iconPath": "./zip.svg"
     },
     "_python": {
-      "iconPath": "./python.svg"
+      "iconPath": "./python_classic.svg"
     },
     "_c": {
       "iconPath": "./c.svg"
@@ -184,7 +184,8 @@
     "ts": "_ts",
     "tsx": "_ts",
     "java": "_java",
-    "jar": "_zip"
+    "jar": "_zip",
+    "pyi": "_python"
   },
   "fileNames": {
     "readme.md": "_markdown",

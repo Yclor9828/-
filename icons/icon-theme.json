@@ -92,6 +92,9 @@
     },
     "_svg": {
       "iconPath": "./svg_symbols.svg"
+    },
+    "_document_text": {
+      "iconPath": "./document_text.svg"
     }
   },
   "file": "_file",
@@ -137,9 +140,9 @@
     "awl": "_scl",
     "udt": "_scl",
     "db": "_scl",
-    "txt": "_text",
-    "log": "_text",
-    "ini": "_text",
+    "txt": "_document_text",
+    "log": "_document_text",
+    "ini": "_document_text",
     "cfg": "_text",
     "conf": "_text",
     "png": "_png",
@@ -207,7 +210,7 @@
     "cpp": "_cpp",
     "json": "_json",
     "jsonc": "_json",
-    "plaintext": "_text",
+    "plaintext": "_document_text",
     "svg": "_svg"
   }
 }
